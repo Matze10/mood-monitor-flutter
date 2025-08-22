@@ -1,6 +1,6 @@
 # Mood Monitor
 
-A cross-platform mood tracking application built with Flutter.
+A cross-platform mood tracking application being built with Flutter.
 
 ## Features
 
