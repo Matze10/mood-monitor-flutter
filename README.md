@@ -62,6 +62,4 @@ flutter build web
 flutter build windows
 ```
 
-## License
 
-This project is licensed under the MIT License.
